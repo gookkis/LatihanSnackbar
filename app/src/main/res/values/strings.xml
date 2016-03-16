@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan Snackbar</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_simple_snackbar">Simple Snackbar</string>
+    <string name="text_custom_snackbar">Snackbar Custom Warna</string>
+    <string name="text_multicolor_snackbar">Snackbar MultiText Warna</string>
+    <string name="text_snackbar_action">Snackbar dengan Action Callback</string>
+</resources>

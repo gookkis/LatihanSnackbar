@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_47ec8e277ab9bf2d49e57a64c5353752564f06ed.jar" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_091f2085d599628afc3115df473b10afac9c6eb0.jar" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_63aacf4aca71c69ea464ade115e36fc0032158ff.jar" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_9d1c261b6d8e946298f43b49e74734c556054b10.jar" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_1856c82b1a5065c84ba0cabed21081a7455553c8.jar" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_2fdab630544128297dd863cc1d5ea30cd293f75c.jar" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_c9193a10461759a3940b64b62d01c67219c79009.jar" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android-SDK/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/herikiswanto/Documents/Android Workspace/Gookkis/LatihanSnackbar/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_7089baa2e251f3e69445b21a942bfd6cf0eebbae.jar" />
+    </item>
+
+</items>
